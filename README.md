@@ -1,13 +1,15 @@
-💫 About Me:
-Hi, I’m Vartika Pathak 👋
+# 💫 About Me
 
-🎓 B.Tech CSE student at Bennett University (2022–2026)
-💻 Aspiring Full-Stack Developer with experience in React.js, Spring Boot, PostgreSQL, and MERN stack
-📊 Worked on projects like an Expense Tracker and a Human Resource Management System (HRMS)
-🚀 Enjoy solving Data Structures & Algorithms problems (250+ on LeetCode)
-🎯 Certified in AWS Cloud Practitioner and AWS Solutions Architect, eager to apply skills in software development and cloud-based solutions
+🎓 B.Tech CSE student at Bennett University (2022–2026)  
+💻 Aspiring Full-Stack Developer with experience in React.js, Spring Boot, PostgreSQL, and MERN Stack  
+📊 Built projects like an Expense Tracker and Human Resource Management System (HRMS)  
+🚀 Passionate about solving Data Structures & Algorithms problems (250+ on LeetCode)  
+☁️ AWS Certified Cloud Practitioner & AWS Solutions Architect  
+🎯 Interested in Software Development, Cloud Computing, and Scalable Applications  
 
-## 🌐 Connect With Me
+---
+
+# 🌐 Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vartika-pathak-5b262028b" target="_blank">
@@ -19,12 +21,14 @@ Hi, I’m Vartika Pathak 👋
   </a>
 </p>
 
-## 🚀 Tech Stack
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,python,aws,react,nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
